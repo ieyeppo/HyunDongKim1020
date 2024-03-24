@@ -1,6 +1,6 @@
 <div align="center">
   
-   ## 안녕하세요 저는 현동 이라고 합니다😋
+   ## 안녕하세요. 최현화 입니다😋
 </div>
 
 <p align="center">
@@ -12,7 +12,8 @@
 
   🦄 Follow 🦄  
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram_handoy123-E4405F?style=flat&logo=Instagram&logoColor=Black"/> 
-  <a href="https://han.gl/cixtlB"></a><img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
+  <a href="https://zrr.kr/gGhN"></a>
+  <img src="https://img.shields.io/badge/Notion-333333?style=flat&logo=Notion&logoColor=Black"/></a>
 
   
   🖥 Tool 🖥 
@@ -26,5 +27,5 @@
 
  <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunDongKim1020&show_icons=true&theme=dracula)![HyunDongKim1020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunDongKim1020&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieyeppo&show_icons=true&theme=dracula)![ieyeppo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ieyeppo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 </div>
